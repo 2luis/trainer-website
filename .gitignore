@@ -1,0 +1,16 @@
+# Dependency directories
+/node_modules
+
+# Build outputs
+/build
+/dist
+
+# Enviromentt configuartion files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# macOs files
+.DS_Store
